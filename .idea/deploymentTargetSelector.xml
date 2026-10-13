@@ -4,8 +4,11 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2026-10-13T12:37:17.017148700Z">
+        <DropdownSelection timestamp="2026-10-13T12:46:56.204974900Z">
           <Target type="DEFAULT_BOOT">
+            <handle>
+              <DeviceId pluginId="FirebaseDirectAccess" identifier="reservation=projects/cleanflow-140c4/deviceSessions/session-22g00eis7fsq7" />
+            </handle>
             <template>
               <DeviceId pluginId="FirebaseDirectAccess" type="TEMPLATE" identifier="model_id=a54xue/36" />
             </template>
